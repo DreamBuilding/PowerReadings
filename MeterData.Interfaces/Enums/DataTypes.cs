@@ -1,0 +1,33 @@
+﻿namespace MeterData.Interfaces.Enums
+{
+    public enum DataTypes
+    {
+        ImportWhTotal,
+        ImportVarhTotal,
+        ExportVarhTotal,
+        ExportWhTotal,
+        ActivePowerTotalWatts,
+        ApparantPowerTotal,
+        CurrentPhaseAMax,
+        CurrentPhaseAMin,
+        CurrentPhaseBMax,
+        CurrentPhaseBMin,
+        CurrentPhaseCMax,
+        CurrentPhaseCMin,
+        CurrentTotal,
+        PhaseAngleA,
+        PhaseAngleB,
+        PhaseAngleC,
+        ReactivePowerTotalVars,
+        Touch1ExportWhHours,
+        VoltagePhaseAMax,
+        VoltagePhaseAMin,
+        VoltagePhaseBMax,
+        VoltagePhaseBMin,
+        VoltagePhaseCMax,
+        VoltagePhaseCMin,
+        VoltageTotal,
+        ApparantPowerTotalVa,
+        TouCh1ExportWhTotal
+    }
+}

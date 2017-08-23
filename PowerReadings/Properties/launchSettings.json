@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PowerReadings": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Sample Files\""
+    }
+  }
+}
